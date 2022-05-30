@@ -1,5 +1,5 @@
 /** Programa que Imprime o Hello World no CMD 
- * Feito por Igor Campos 
+ * @authorFeito por Igor Campos 
  */
 public class HelloWorld {
 
